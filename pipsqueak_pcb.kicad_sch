@@ -7046,6 +7046,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Default NC"
+		(exclude_from_sim no)
+		(at 251.46 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1743cd4e-4f7f-4f9d-a222-a6044164e3bf")
+	)
 	(text "NX4827P043-011C\nTouchscreen"
 		(exclude_from_sim no)
 		(at 118.11 150.876 0)
@@ -7098,7 +7108,7 @@
 	)
 	(text "USB to UART\n"
 		(exclude_from_sim no)
-		(at 353.568 93.218 0)
+		(at 353.568 87.376 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -7136,6 +7146,16 @@
 		)
 		(uuid "7f04bb24-02df-4333-8354-5f8ed49cbdf8")
 	)
+	(text "Default NC"
+		(exclude_from_sim no)
+		(at 354.584 96.774 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7f231241-814c-47b2-9a84-264fc2444a24")
+	)
 	(text "Steppers\n"
 		(exclude_from_sim no)
 		(at 295.148 21.336 0)
@@ -7145,6 +7165,16 @@
 			)
 		)
 		(uuid "8365de50-39af-49b6-89d5-6ff0e230e3ae")
+	)
+	(text "Default Connect\n"
+		(exclude_from_sim no)
+		(at 102.362 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "87ad103a-38e5-423c-93ff-914f7367bdb0")
 	)
 	(text "Power Input\n"
 		(exclude_from_sim no)
@@ -7329,6 +7359,12 @@
 		(uuid "25c2a00f-a347-4d2a-bc5c-cef6e0846808")
 	)
 	(junction
+		(at 43.18 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "263a93fc-bfb2-45ad-be55-9cabebb4760a")
+	)
+	(junction
 		(at 35.56 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7341,10 +7377,22 @@
 		(uuid "27a94efb-0972-41be-a455-22cac78c03f9")
 	)
 	(junction
+		(at 33.02 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "305653fd-8e02-4504-8b2f-4e810e2d4dfd")
+	)
+	(junction
 		(at 393.7 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33845950-44a3-41e5-9585-3bc6e28d2ac5")
+	)
+	(junction
+		(at 219.71 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a6841be-fa53-4aec-99ae-4e9052ca84a6")
 	)
 	(junction
 		(at 295.91 247.65)
@@ -7381,6 +7429,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4900c685-2c39-4b92-88e3-bb126e410681")
+	)
+	(junction
+		(at 341.63 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b1f31e4-cd1b-45c6-ac38-eede128b7a60")
 	)
 	(junction
 		(at 314.96 233.68)
@@ -7551,6 +7605,18 @@
 		(uuid "7a6c3b85-5ccc-4c14-a5a4-5dcad819efa0")
 	)
 	(junction
+		(at 327.66 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ab7d4e0-49fe-47da-83ec-c1dc7c33c359")
+	)
+	(junction
+		(at 274.32 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d70280b-0011-4049-a909-2e75470df3ae")
+	)
+	(junction
 		(at 104.14 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7615,6 +7681,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95604a03-5932-4939-81ce-ab3f43460423")
+	)
+	(junction
+		(at 215.9 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95a26291-851d-43fb-beab-2ec4f628c262")
 	)
 	(junction
 		(at 309.88 111.76)
@@ -7767,7 +7839,7 @@
 		(uuid "afd0b342-e493-48f7-9621-32f9013261c5")
 	)
 	(junction
-		(at 43.18 132.08)
+		(at 43.18 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "afdd3a5c-30e5-45b1-8c60-cf1c7c495b2d")
@@ -7951,6 +8023,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de2f07ff-ffdd-45d4-8264-f03d69f1f564")
+	)
+	(junction
+		(at 166.37 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de3a1b28-8cf4-45e8-9294-9f3bd8f1c4ce")
 	)
 	(junction
 		(at 156.21 121.92)
@@ -8178,6 +8256,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 57.15) (xy 204.47 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "057222f5-2c2b-4ba0-b594-2aec028a40b5")
+	)
+	(wire
+		(pts
 			(xy 62.23 229.87) (xy 62.23 232.41)
 		)
 		(stroke
@@ -8185,6 +8273,16 @@
 			(type default)
 		)
 		(uuid "06bd5b2a-7d21-495b-a809-308b58ad6c6a")
+	)
+	(wire
+		(pts
+			(xy 312.42 52.07) (xy 312.42 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "070970fb-f339-4f25-b422-196fddcc0975")
 	)
 	(wire
 		(pts
@@ -8308,6 +8406,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 55.88) (xy 314.96 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1453db60-6f38-4c19-88e9-420ece1ca167")
+	)
+	(wire
+		(pts
 			(xy 247.65 219.71) (xy 259.08 219.71)
 		)
 		(stroke
@@ -8378,6 +8486,26 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 57.15) (xy 204.47 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a2e1516-10c7-42f8-83cf-7827506e6562")
+	)
+	(wire
+		(pts
+			(xy 313.69 52.07) (xy 314.96 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af4b1cd-142a-4a71-8f22-ddd9231483a2")
+	)
+	(wire
+		(pts
 			(xy 262.89 142.24) (xy 262.89 143.51)
 		)
 		(stroke
@@ -8415,6 +8543,26 @@
 			(type default)
 		)
 		(uuid "1ee4b2ad-3831-4ed4-9dde-643681beb6cc")
+	)
+	(wire
+		(pts
+			(xy 40.64 129.54) (xy 43.18 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20db1639-294a-4745-a608-d5902e9efbeb")
+	)
+	(wire
+		(pts
+			(xy 363.22 57.15) (xy 367.03 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2288ad8f-ba59-4832-9b06-9e3e3012ef9b")
 	)
 	(wire
 		(pts
@@ -8558,7 +8706,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 39.37) (xy 214.63 39.37)
+			(xy 208.28 39.37) (xy 215.9 39.37)
 		)
 		(stroke
 			(width 0)
@@ -8575,6 +8723,26 @@
 			(type default)
 		)
 		(uuid "2eecb4cd-ef83-49c4-b813-5c88bfcf3ca6")
+	)
+	(wire
+		(pts
+			(xy 201.93 55.88) (xy 205.74 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30d223a1-a128-448d-ad86-e1aaa811f43d")
+	)
+	(wire
+		(pts
+			(xy 309.88 52.07) (xy 312.42 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3200d710-2a48-405c-bc24-187adfb03240")
 	)
 	(wire
 		(pts
@@ -8605,6 +8773,16 @@
 			(type default)
 		)
 		(uuid "32633b2d-ba47-4a0f-a124-26f7e727367d")
+	)
+	(wire
+		(pts
+			(xy 201.93 54.61) (xy 201.93 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3314bfad-14f7-4143-a84c-65184a870dfa")
 	)
 	(wire
 		(pts
@@ -8658,6 +8836,16 @@
 	)
 	(wire
 		(pts
+			(xy 257.81 57.15) (xy 257.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3638ba1b-579a-44c4-9365-5fa6bc48a25b")
+	)
+	(wire
+		(pts
 			(xy 236.22 114.3) (xy 236.22 116.84)
 		)
 		(stroke
@@ -8688,6 +8876,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 59.69) (xy 260.35 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38f5a149-72e6-46b4-b2a9-dfed85aba96c")
+	)
+	(wire
+		(pts
 			(xy 247.65 261.62) (xy 259.08 261.62)
 		)
 		(stroke
@@ -8695,6 +8893,36 @@
 			(type default)
 		)
 		(uuid "3a39cfa9-946c-4e27-8b98-411ba0d48541")
+	)
+	(wire
+		(pts
+			(xy 203.2 54.61) (xy 205.74 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb6ce89-245d-478d-a1ea-559bb6fb9d8a")
+	)
+	(wire
+		(pts
+			(xy 309.88 54.61) (xy 311.15 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d1e5478-827b-4ce6-886a-47b4266da37f")
+	)
+	(wire
+		(pts
+			(xy 331.47 92.71) (xy 341.63 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d4008f1-8f3c-4f91-9b32-2f991fbf838b")
 	)
 	(wire
 		(pts
@@ -8738,6 +8966,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 53.34) (xy 259.08 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fefb2bc-9b2c-4dfa-a427-4a87b225aebf")
+	)
+	(wire
+		(pts
 			(xy 144.78 121.92) (xy 156.21 121.92)
 		)
 		(stroke
@@ -8745,6 +8983,16 @@
 			(type default)
 		)
 		(uuid "40b056f4-046b-4830-9f3d-7479ba3a6859")
+	)
+	(wire
+		(pts
+			(xy 255.27 55.88) (xy 260.35 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4148e4db-d260-400a-9f1c-44dce3930e0b")
 	)
 	(wire
 		(pts
@@ -8868,6 +9116,16 @@
 	)
 	(wire
 		(pts
+			(xy 257.81 52.07) (xy 260.35 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c85784a-3e2f-4216-8fbb-23fca4d17f88")
+	)
+	(wire
+		(pts
 			(xy 331.47 195.58) (xy 342.9 195.58)
 		)
 		(stroke
@@ -8875,6 +9133,16 @@
 			(type default)
 		)
 		(uuid "4c955606-1cb4-48c0-980f-ffc9da4c1577")
+	)
+	(wire
+		(pts
+			(xy 341.63 106.68) (xy 341.63 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cac5164-aa73-4a73-8dbc-e6cc2e90affd")
 	)
 	(wire
 		(pts
@@ -8928,6 +9196,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 54.61) (xy 364.49 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f8d0593-4c8b-48c0-88f4-09c9ce0322ec")
+	)
+	(wire
+		(pts
 			(xy 236.22 143.51) (xy 236.22 144.78)
 		)
 		(stroke
@@ -8955,6 +9233,16 @@
 			(type default)
 		)
 		(uuid "528a7c74-32d3-47dc-a92a-f947a95820aa")
+	)
+	(wire
+		(pts
+			(xy 367.03 57.15) (xy 367.03 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "534db31b-000c-4fe5-a1a0-fc41197510d1")
 	)
 	(wire
 		(pts
@@ -9048,6 +9336,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 139.7) (xy 48.26 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6067924e-224d-41a9-ba31-f909b9cd8bc0")
+	)
+	(wire
+		(pts
 			(xy 31.75 116.84) (xy 38.1 116.84)
 		)
 		(stroke
@@ -9065,6 +9363,16 @@
 			(type default)
 		)
 		(uuid "61999a61-6d4e-4a19-aafe-a0ad510c8056")
+	)
+	(wire
+		(pts
+			(xy 259.08 54.61) (xy 260.35 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61c1edaa-ef81-4d3f-8fe0-f7b78ec92b32")
 	)
 	(wire
 		(pts
@@ -9098,7 +9406,17 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 109.22) (xy 341.63 116.84)
+			(xy 255.27 53.34) (xy 259.08 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6727dbca-4491-4fd9-b8ea-a83f7322a752")
+	)
+	(wire
+		(pts
+			(xy 341.63 100.33) (xy 341.63 106.68)
 		)
 		(stroke
 			(width 0)
@@ -9358,6 +9676,16 @@
 	)
 	(wire
 		(pts
+			(xy 368.3 55.88) (xy 368.3 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b6e80d0-1542-4063-8821-ec4b0c4cdcc8")
+	)
+	(wire
+		(pts
 			(xy 331.47 187.96) (xy 331.47 168.91)
 		)
 		(stroke
@@ -9438,13 +9766,23 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 132.08) (xy 43.18 132.08)
+			(xy 40.64 139.7) (xy 43.18 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8017f94f-37b4-420c-a508-5bf891866a01")
+	)
+	(wire
+		(pts
+			(xy 363.22 59.69) (xy 368.3 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80357ae9-d219-4b91-ab62-bd1187a5534f")
 	)
 	(wire
 		(pts
@@ -9578,6 +9916,16 @@
 	)
 	(wire
 		(pts
+			(xy 260.35 55.88) (xy 260.35 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8799c068-35f8-475c-bd6d-f554f9b504fa")
+	)
+	(wire
+		(pts
 			(xy 38.1 228.6) (xy 38.1 231.14)
 		)
 		(stroke
@@ -9618,6 +9966,16 @@
 	)
 	(wire
 		(pts
+			(xy 312.42 54.61) (xy 314.96 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b8d8e8e-297e-4e04-88eb-8485e199b8cc")
+	)
+	(wire
+		(pts
 			(xy 57.15 116.84) (xy 53.34 116.84)
 		)
 		(stroke
@@ -9645,6 +10003,16 @@
 			(type default)
 		)
 		(uuid "8db66ffc-fd64-4509-8752-6612ad42c234")
+	)
+	(wire
+		(pts
+			(xy 311.15 55.88) (xy 314.96 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e1b27ba-4b1e-4e7f-a0f9-3c46ac222adf")
 	)
 	(wire
 		(pts
@@ -9778,6 +10146,26 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 57.15) (xy 313.69 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9be4f637-58cc-48af-a28c-a31409927c55")
+	)
+	(wire
+		(pts
+			(xy 203.2 52.07) (xy 203.2 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8f86f6-a99f-4f6a-9c7d-c824069b42f6")
+	)
+	(wire
+		(pts
 			(xy 168.91 134.62) (xy 168.91 139.7)
 		)
 		(stroke
@@ -9845,6 +10233,16 @@
 			(type default)
 		)
 		(uuid "a0bf8104-4295-481c-ab8f-ba33fd342168")
+	)
+	(wire
+		(pts
+			(xy 327.66 57.15) (xy 327.66 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a11aaf53-6187-48e2-88d2-795030ff6fd4")
 	)
 	(wire
 		(pts
@@ -9935,6 +10333,16 @@
 			(type default)
 		)
 		(uuid "a802d1e7-05a6-4d00-8ab1-c0ed9d744b7b")
+	)
+	(wire
+		(pts
+			(xy 274.32 57.15) (xy 274.32 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8388020-9ea9-44d8-8b05-8425f13fffdc")
 	)
 	(wire
 		(pts
@@ -10048,6 +10456,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 54.61) (xy 255.27 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adf1f036-e534-4cf3-a8a0-82eac3a2d12d")
+	)
+	(wire
+		(pts
 			(xy 34.29 203.2) (xy 36.83 203.2)
 		)
 		(stroke
@@ -10138,6 +10556,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 57.15) (xy 257.81 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4100453-eef8-4dc5-ba13-0ee6600e76f3")
+	)
+	(wire
+		(pts
 			(xy 156.21 114.3) (xy 163.83 114.3)
 		)
 		(stroke
@@ -10155,6 +10583,16 @@
 			(type default)
 		)
 		(uuid "b4234697-34cd-4bbf-8d76-b9c630f843f8")
+	)
+	(wire
+		(pts
+			(xy 367.03 52.07) (xy 368.3 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4555aa4-8c82-4727-a0e2-529e296c34dd")
 	)
 	(wire
 		(pts
@@ -10185,6 +10623,26 @@
 			(type default)
 		)
 		(uuid "b6037c7c-19ab-4ca5-84f8-bf17efcc1970")
+	)
+	(wire
+		(pts
+			(xy 166.37 57.15) (xy 166.37 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b73b313c-06bd-43ff-9acb-3c3bf4e5d39f")
+	)
+	(wire
+		(pts
+			(xy 364.49 55.88) (xy 368.3 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b751ee1d-2239-4b9f-a3a0-248f1c07a96f")
 	)
 	(wire
 		(pts
@@ -10245,6 +10703,16 @@
 			(type default)
 		)
 		(uuid "b9c5c775-427c-43f5-a359-f2094aa9e1ab")
+	)
+	(wire
+		(pts
+			(xy 205.74 55.88) (xy 205.74 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bab87ce4-160c-4a30-a5e0-b980738f53e5")
 	)
 	(wire
 		(pts
@@ -10378,6 +10846,26 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 129.54) (xy 33.02 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5cced8a-b4f5-4e0a-8e1d-92f4764a55cc")
+	)
+	(wire
+		(pts
+			(xy 363.22 54.61) (xy 364.49 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5e05267-8265-4600-90b5-bfa95ab3dcd6")
+	)
+	(wire
+		(pts
 			(xy 241.3 238.76) (xy 241.3 243.84)
 		)
 		(stroke
@@ -10468,6 +10956,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 129.54) (xy 43.18 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc683d17-faec-4d02-bf1e-1b792f4e75a2")
+	)
+	(wire
+		(pts
 			(xy 107.95 25.4) (xy 107.95 26.67)
 		)
 		(stroke
@@ -10475,6 +10973,16 @@
 			(type default)
 		)
 		(uuid "cd65aa9a-e9b8-4acc-ae1d-ce25da03cf8c")
+	)
+	(wire
+		(pts
+			(xy 201.93 52.07) (xy 203.2 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9f5695-1f4b-44fd-b044-651a734480a8")
 	)
 	(wire
 		(pts
@@ -10608,6 +11116,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 59.69) (xy 205.74 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8d4839a-6bf9-4870-8c61-cc17ea50809d")
+	)
+	(wire
+		(pts
 			(xy 92.71 237.49) (xy 92.71 238.76)
 		)
 		(stroke
@@ -10668,6 +11186,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 59.69) (xy 314.96 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daf1062a-f8a0-49f6-ba90-cf248ca2370d")
+	)
+	(wire
+		(pts
 			(xy 331.47 168.91) (xy 331.47 160.02)
 		)
 		(stroke
@@ -10678,6 +11206,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 57.15) (xy 313.69 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db6ba810-30c4-4dfc-8703-35f959d4f5c1")
+	)
+	(wire
+		(pts
 			(xy 266.7 142.24) (xy 262.89 142.24)
 		)
 		(stroke
@@ -10685,6 +11223,16 @@
 			(type default)
 		)
 		(uuid "db7e645f-f3a2-4dd9-bcef-7d72ad90c4b9")
+	)
+	(wire
+		(pts
+			(xy 363.22 52.07) (xy 365.76 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db91d97f-d709-43c4-9a52-37cf4861ca57")
 	)
 	(wire
 		(pts
@@ -10705,6 +11253,16 @@
 			(type default)
 		)
 		(uuid "dd9ceb3c-1940-4a65-bc4e-6b0cc04adb27")
+	)
+	(wire
+		(pts
+			(xy 311.15 54.61) (xy 311.15 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd56401-de47-409d-886f-c889cf834c58")
 	)
 	(wire
 		(pts
@@ -10768,6 +11326,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 52.07) (xy 205.74 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6206fb0-a908-4d90-948c-66aeee6661c9")
+	)
+	(wire
+		(pts
 			(xy 326.39 241.3) (xy 314.96 241.3)
 		)
 		(stroke
@@ -10828,6 +11396,16 @@
 	)
 	(wire
 		(pts
+			(xy 365.76 54.61) (xy 368.3 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb2461d1-f849-45db-95b4-fd252f4cb031")
+	)
+	(wire
+		(pts
 			(xy 102.87 121.92) (xy 102.87 124.46)
 		)
 		(stroke
@@ -10865,6 +11443,16 @@
 			(type default)
 		)
 		(uuid "ee200dc6-357a-401e-8a1a-522bed4e08e0")
+	)
+	(wire
+		(pts
+			(xy 219.71 57.15) (xy 219.71 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eff3a2f4-8f15-4c0b-87dd-937337a6c777")
 	)
 	(wire
 		(pts
@@ -10915,6 +11503,26 @@
 			(type default)
 		)
 		(uuid "f5655b33-1133-4fe3-86e0-400f15600334")
+	)
+	(wire
+		(pts
+			(xy 365.76 52.07) (xy 365.76 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6415fca-5ec7-4c82-90a1-a1b165344d21")
+	)
+	(wire
+		(pts
+			(xy 255.27 53.34) (xy 255.27 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f70201ff-e083-4be8-96b0-f2514b60f634")
 	)
 	(wire
 		(pts
@@ -11007,7 +11615,7 @@
 		(uuid "01e3a6b8-b68b-4423-a7d8-5450a5f3e79b")
 	)
 	(label "IO13"
-		(at 48.26 167.64 270)
+		(at 48.26 175.26 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11166,16 +11774,6 @@
 		)
 		(uuid "2b9a941b-184b-4a44-b61b-4bdae8caf41f")
 	)
-	(label "SCL"
-		(at 236.22 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2ce99e36-0b33-43ee-aae1-05636e10dc00")
-	)
 	(label "ESP32RXD"
 		(at 99.06 168.91 180)
 		(effects
@@ -11205,6 +11803,26 @@
 			(justify left bottom)
 		)
 		(uuid "3e8a175c-2750-4572-8973-0671beba2663")
+	)
+	(label "M2A"
+		(at 205.74 55.88 0)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left bottom)
+		)
+		(uuid "41ac90f1-46c1-4a8e-a5c9-0a1b41258f5b")
+	)
+	(label "M1B"
+		(at 204.47 52.07 0)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left bottom)
+		)
+		(uuid "4673bbe6-98f1-4644-8851-18f1115e137d")
 	)
 	(label "IO26"
 		(at 219.71 49.53 180)
@@ -11276,16 +11894,6 @@
 		)
 		(uuid "5b232fb8-6eac-4659-91c9-6aaba4e30833")
 	)
-	(label "SDA"
-		(at 236.22 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b3d63af-8a16-43bf-a29e-880afdcd7ae4")
-	)
 	(label "IO33"
 		(at 185.42 132.08 180)
 		(effects
@@ -11326,7 +11934,7 @@
 		)
 		(uuid "72190121-c3a2-4466-a89e-980f0e70dcda")
 	)
-	(label "IO39"
+	(label "IO35"
 		(at 144.78 241.3 180)
 		(effects
 			(font
@@ -11335,6 +11943,16 @@
 			(justify right bottom)
 		)
 		(uuid "7439378c-68bb-404e-963c-a550ae4c6ff6")
+	)
+	(label "SCL"
+		(at 236.22 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83095511-1192-43b3-b498-5bce284be58f")
 	)
 	(label "IO13"
 		(at 185.42 149.86 180)
@@ -11356,7 +11974,7 @@
 		)
 		(uuid "860fef49-8cee-4957-bd04-ed93bc1e6ee9")
 	)
-	(label "IO35"
+	(label "IO36"
 		(at 102.87 133.35 180)
 		(effects
 			(font
@@ -11385,6 +12003,16 @@
 			(justify left bottom)
 		)
 		(uuid "8c5bdd71-d888-4798-ac2c-2d7d4e3c6be8")
+	)
+	(label "SDA"
+		(at 236.22 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8d371a39-7119-42ea-8608-d55c1a17d5dd")
 	)
 	(label "IO25"
 		(at 219.71 52.07 180)
@@ -11426,6 +12054,16 @@
 		)
 		(uuid "9ba4f016-6a74-49b2-b794-8bec329e4be5")
 	)
+	(label "M2B"
+		(at 205.74 59.69 0)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ce88342-c89e-4035-addd-0d9d27f100b1")
+	)
 	(label "IO14"
 		(at 274.32 49.53 180)
 		(effects
@@ -11456,7 +12094,7 @@
 		)
 		(uuid "a328589f-9dd6-41da-8ef9-297ab880e336")
 	)
-	(label "IO36"
+	(label "IO34"
 		(at 125.73 275.59 180)
 		(effects
 			(font
@@ -11566,6 +12204,16 @@
 		)
 		(uuid "df566c8a-eb66-4e9c-8e9e-b9221f2dd8b6")
 	)
+	(label "M1A"
+		(at 205.74 54.61 0)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+			(justify left bottom)
+		)
+		(uuid "e408d697-f6ea-4dc5-ab2e-3626ccf9874e")
+	)
 	(label "SCL"
 		(at 62.23 265.43 0)
 		(effects
@@ -11576,7 +12224,7 @@
 		)
 		(uuid "eb1d2ae6-23f3-46dc-8034-74ec5515b65d")
 	)
-	(label "IO34"
+	(label "IO39"
 		(at 104.14 241.3 180)
 		(effects
 			(font
@@ -11606,7 +12254,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01011c70-4959-4901-89cd-c00f5fcbf1ad")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR098"
 			(at 394.97 121.92 0)
 			(effects
 				(font
@@ -11657,7 +12305,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR080")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -11672,7 +12320,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "015f7c57-4fac-4b92-b9f3-5063a3bdb160")
-		(property "Reference" "C33"
+		(property "Reference" "C51"
 			(at 383.286 35.306 90)
 			(effects
 				(font
@@ -11724,7 +12372,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C33")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -11740,7 +12388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0189cfe0-be29-42ef-8b6a-3e167c86c186")
-		(property "Reference" "J15"
+		(property "Reference" "J17"
 			(at 178.435 243.84 0)
 			(effects
 				(font
@@ -11833,7 +12481,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J15")
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -11982,7 +12630,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03b96793-cd88-48e0-96c0-19bd7231d45d")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR095"
 			(at 377.19 25.4 0)
 			(effects
 				(font
@@ -12033,7 +12681,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR076")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -12048,7 +12696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04b3af0c-0f95-4235-a8f0-41e9ccd0d617")
-		(property "Reference" "C?"
+		(property "Reference" "C31"
 			(at 292.1 241.554 90)
 			(effects
 				(font
@@ -12100,7 +12748,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -12115,7 +12763,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "057de59a-f05e-4890-9df4-e41f9361d326")
-		(property "Reference" "C16"
+		(property "Reference" "C25"
 			(at 263.906 32.766 90)
 			(effects
 				(font
@@ -12167,7 +12815,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C16")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -12183,7 +12831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "071bd37f-62f1-4231-80f9-bd48f787abb8")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR062"
 			(at 278.13 59.69 0)
 			(effects
 				(font
@@ -12234,7 +12882,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR051")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -12250,7 +12898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0757b9ea-28a0-405b-95b1-bf071f0a6d7e")
-		(property "Reference" "C2"
+		(property "Reference" "C3"
 			(at 74.93 65.1509 0)
 			(effects
 				(font
@@ -12304,7 +12952,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C2")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12319,7 +12967,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a0c6d46-d876-4097-b9c3-9878323d3c24")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR078"
 			(at 323.85 25.4 0)
 			(effects
 				(font
@@ -12370,7 +13018,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR061")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -12386,7 +13034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0aab7d25-3080-4ad4-9c1e-eac78d2fd641")
-		(property "Reference" "J8"
+		(property "Reference" "J10"
 			(at 87.63 53.9749 90)
 			(effects
 				(font
@@ -12440,7 +13088,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J8")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -12455,7 +13103,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c257fc1-7717-4a1b-99bb-9820b951543f")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR071"
 			(at 316.23 72.39 0)
 			(effects
 				(font
@@ -12506,7 +13154,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR056")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -12522,7 +13170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0db90e8b-2c93-4a60-a699-eae25262a017")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR049"
 			(at 254 36.83 0)
 			(effects
 				(font
@@ -12573,7 +13221,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR041")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -12589,7 +13237,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f8914f2-fb84-46c2-8b73-31601dcdd935")
-		(property "Reference" "R?"
+		(property "Reference" "R29"
 			(at 363.22 236.22 90)
 			(effects
 				(font
@@ -12641,7 +13289,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -12727,7 +13375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11880bbc-690f-43ae-a715-604235923352")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR0100"
 			(at 393.7 143.51 0)
 			(effects
 				(font
@@ -12777,7 +13425,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR087")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -12792,7 +13440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "11b708c6-1365-4b41-b810-5abf25484887")
-		(property "Reference" "C18"
+		(property "Reference" "C17"
 			(at 193.04 234.696 90)
 			(effects
 				(font
@@ -12844,7 +13492,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C18")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -12860,7 +13508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1438b9b9-e42a-4a62-b9d4-ce55454987cf")
-		(property "Reference" "J21"
+		(property "Reference" "J19"
 			(at 231.14 201.93 0)
 			(effects
 				(font
@@ -12956,7 +13604,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J21")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -12972,7 +13620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "148b7c71-b857-498f-a878-8fd39f24e78e")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR061"
 			(at 266.7 39.37 0)
 			(effects
 				(font
@@ -13023,7 +13671,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR047")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -13039,7 +13687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15bf9897-8c98-4de1-918e-d545a60fde07")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR077"
 			(at 316.23 163.83 0)
 			(effects
 				(font
@@ -13089,7 +13737,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR0104")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -13105,7 +13753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16d7810c-0a31-4c48-8278-204790982b97")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 107.95 226.06 90)
 			(effects
 				(font
@@ -13157,7 +13805,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -13243,7 +13891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1827f8e1-bd44-4a97-b9c1-c1a60bb182ff")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR063"
 			(at 271.78 187.96 0)
 			(effects
 				(font
@@ -13294,7 +13942,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR085")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -13309,7 +13957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c6113ff-ca06-4b75-9b4b-6b5c47c761d8")
-		(property "Reference" "R17"
+		(property "Reference" "R31"
 			(at 384.556 184.404 90)
 			(effects
 				(font
@@ -13361,7 +14009,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R17")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -13376,7 +14024,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21af1f45-5bd4-4779-89bc-2901813590ed")
-		(property "Reference" "C13"
+		(property "Reference" "C19"
 			(at 210.566 32.766 90)
 			(effects
 				(font
@@ -13428,7 +14076,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C13")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -13444,7 +14092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21d33893-7891-4eeb-bc64-2261db9c19e6")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR023"
 			(at 129.54 195.58 0)
 			(effects
 				(font
@@ -13494,7 +14142,74 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR0100")
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 36.83 129.54 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "22d6c145-7361-4fbc-b9ae-9995a096b65c")
+		(property "Reference" "C1"
+			(at 36.83 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 37.084 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 33.02 130.5052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.83 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 36.83 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1ef9263-67f6-4c6c-9c85-7231718300d2")
+		)
+		(pin "2"
+			(uuid "a814c74b-4bc1-4b91-8a09-2353ee79e488")
+		)
+		(instances
+			(project "pipsqueak_pcb"
+				(path "/ea446875-dee0-4566-8c82-1557756ca798"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -13509,7 +14224,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22e4dc2d-758d-46e4-8412-1050aee0a5eb")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR089"
 			(at 369.57 72.39 0)
 			(effects
 				(font
@@ -13560,7 +14275,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR070")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -13575,7 +14290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23e93bfa-dc20-46e8-b36f-5e6a9f73dada")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 96.52 231.394 90)
 			(effects
 				(font
@@ -13627,7 +14342,73 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C6")
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 44.45 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2468dd1b-6ea7-4d2e-aaaa-6d5cd47fe408")
+		(property "Reference" "#PWR05"
+			(at 44.45 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 44.45 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 44.45 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fbfb44f-33cd-4a70-abf1-423b34a0bbc4")
+		)
+		(instances
+			(project "pipsqueak_pcb"
+				(path "/ea446875-dee0-4566-8c82-1557756ca798"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -13643,7 +14424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2551ba82-1f58-46a7-9c75-1a182aa62c29")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 106.68 118.11 90)
 			(effects
 				(font
@@ -13695,7 +14476,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13711,7 +14492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25f2d555-d219-45e0-963a-2964d5e5fe9a")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 175.26 147.32 0)
 			(effects
 				(font
@@ -13762,7 +14543,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -13777,7 +14558,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27897281-3e88-43a7-8a60-0968cf3c7985")
-		(property "Reference" "C38"
+		(property "Reference" "C52"
 			(at 387.604 133.35 90)
 			(effects
 				(font
@@ -13829,7 +14610,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C38")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -13845,7 +14626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "289d8010-371a-4645-98c4-d0f57412d680")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR083"
 			(at 341.63 120.65 0)
 			(effects
 				(font
@@ -13896,7 +14677,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR068")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -14032,7 +14813,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28fe4e11-575a-4a6a-81eb-8589436e9266")
-		(property "Reference" "C29"
+		(property "Reference" "C44"
 			(at 336.55 110.744 90)
 			(effects
 				(font
@@ -14084,7 +14865,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C29")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -14099,7 +14880,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b11ce78-b473-44bd-9d4b-7efb0a126f77")
-		(property "Reference" "C23"
+		(property "Reference" "C41"
 			(at 329.946 35.306 90)
 			(effects
 				(font
@@ -14151,7 +14932,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C23")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -14167,7 +14948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b5a437e-89ec-4607-a3ee-e9caf7b0991a")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR08"
 			(at 60.96 205.74 0)
 			(effects
 				(font
@@ -14217,7 +14998,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR09")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -14233,7 +15014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b9b6fcb-cc28-49f8-b21f-90a80685961f")
-		(property "Reference" "R?"
+		(property "Reference" "R26"
 			(at 327.66 153.67 90)
 			(effects
 				(font
@@ -14249,7 +15030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 327.66 158.242 90)
 			(effects
 				(font
@@ -14285,7 +15066,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -14301,7 +15082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bad5968-93ca-4ad1-8218-91de1446fe5c")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR073"
 			(at 308.61 36.83 0)
 			(effects
 				(font
@@ -14352,7 +15133,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR058")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -14368,7 +15149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bcffa15-df08-4efa-bcc7-5ce1691eab6f")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR040"
 			(at 200.66 36.83 0)
 			(effects
 				(font
@@ -14419,7 +15200,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR030")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -14671,7 +15452,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31c1eb7b-e181-4f95-9c4f-1b730ab8ea09")
-		(property "Reference" "C?"
+		(property "Reference" "C28"
 			(at 265.176 265.43 90)
 			(effects
 				(font
@@ -14723,7 +15504,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -14739,7 +15520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "339469a9-2201-44df-b88d-5b56fafa61ff")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR080"
 			(at 323.85 227.33 0)
 			(effects
 				(font
@@ -14790,7 +15571,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR054")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -14798,7 +15579,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 341.63 105.41 0)
+		(at 341.63 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14806,8 +15587,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33ef0282-525b-4a1a-bd22-7fdf40ddf548")
-		(property "Reference" "R20"
-			(at 344.17 104.1399 0)
+		(property "Reference" "R27"
+			(at 344.17 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14816,7 +15597,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 344.17 106.6799 0)
+			(at 344.17 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14825,7 +15606,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 339.852 105.41 90)
+			(at 339.852 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14834,7 +15615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 341.63 105.41 0)
+			(at 341.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14843,7 +15624,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 341.63 105.41 0)
+			(at 341.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14860,7 +15641,74 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R20")
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 349.25 106.68 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3422f3b3-941d-477f-8947-367baac55fd7")
+		(property "Reference" "#PWR088"
+			(at 355.6 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 353.06 106.6801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 349.25 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b2b22ae-a37c-434a-97e9-31774586d955")
+		)
+		(instances
+			(project "pipsqueak_pcb"
+				(path "/ea446875-dee0-4566-8c82-1557756ca798"
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -14945,7 +15793,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36a1d05a-4953-4191-b0e5-e26515b4e00e")
-		(property "Reference" "C36"
+		(property "Reference" "C26"
 			(at 265.176 215.9 90)
 			(effects
 				(font
@@ -14997,7 +15845,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C36")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -15012,7 +15860,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38f91b09-f95b-4e19-8578-cb4e2b439cfa")
-		(property "Reference" "C27"
+		(property "Reference" "C36"
 			(at 315.976 115.57 90)
 			(effects
 				(font
@@ -15064,7 +15912,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C27")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -15080,7 +15928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39bf68cc-9ac5-453f-88a0-5f84bcb909d2")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR094"
 			(at 379.73 224.79 0)
 			(effects
 				(font
@@ -15131,7 +15979,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR096")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -15146,7 +15994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b66bcc8-e341-49af-9241-74d85330ea30")
-		(property "Reference" "C7"
+		(property "Reference" "C13"
 			(at 148.59 116.8399 0)
 			(effects
 				(font
@@ -15272,7 +16120,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C7")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -15288,7 +16136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cca7b8f-00da-48ba-8448-6f578778f59d")
-		(property "Reference" "R11"
+		(property "Reference" "R17"
 			(at 167.64 110.49 90)
 			(effects
 				(font
@@ -15412,7 +16260,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R11")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -15428,7 +16276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d3c4258-fb4f-461c-ba16-c3e6e061a145")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR093"
 			(at 375.92 209.55 0)
 			(effects
 				(font
@@ -15478,7 +16326,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR098")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -15510,7 +16358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
 			(at 26.67 114.3 0)
 			(effects
 				(font
@@ -15562,7 +16410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dd56446-6e1f-4f26-b567-5a9342071418")
-		(property "Reference" "J12"
+		(property "Reference" "J15"
 			(at 139.7 220.3449 90)
 			(effects
 				(font
@@ -15657,7 +16505,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J12")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -15673,7 +16521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e00a3f5-f804-4131-9fc9-c612075cf661")
-		(property "Reference" "J10"
+		(property "Reference" "J12"
 			(at 99.06 220.3449 90)
 			(effects
 				(font
@@ -15768,7 +16616,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J10")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -15784,7 +16632,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e183db5-76ce-47e0-bf5a-8e012eaf262b")
-		(property "Reference" "R13"
+		(property "Reference" "R16"
 			(at 148.59 226.06 90)
 			(effects
 				(font
@@ -15836,7 +16684,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R13")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -15851,7 +16699,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4167588f-a648-42b5-bd4b-7becca2b6ca8")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR041"
 			(at 208.28 53.34 0)
 			(effects
 				(font
@@ -15902,7 +16750,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR031")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -15917,7 +16765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "42629663-a514-494a-9bac-50d3df548b43")
-		(property "Reference" "R?"
+		(property "Reference" "R8"
 			(at 104.1401 171.45 0)
 			(effects
 				(font
@@ -15971,7 +16819,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -15987,7 +16835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43b6109d-214a-4beb-a994-67e6a1f4b8a5")
-		(property "Reference" "J?"
+		(property "Reference" "J21"
 			(at 231.14 251.46 0)
 			(effects
 				(font
@@ -16083,7 +16931,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -16098,7 +16946,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "446006e4-e6af-43a1-9836-5f9d5d2b2718")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR048"
 			(at 257.81 22.86 0)
 			(effects
 				(font
@@ -16149,7 +16997,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR040")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -16312,7 +17160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "476c4ec1-b041-4a7e-96f3-17862cc2a822")
-		(property "Reference" "J?"
+		(property "Reference" "J29"
 			(at 383.54 227.3299 0)
 			(effects
 				(font
@@ -16372,7 +17220,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J29")
 					(unit 1)
 				)
 			)
@@ -16388,7 +17236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47827e31-16ab-47c2-9d12-678f97e24a27")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR081"
 			(at 331.47 59.69 0)
 			(effects
 				(font
@@ -16439,7 +17287,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR066")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -16454,7 +17302,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49670257-752d-41b8-b356-c90e25d4bb75")
-		(property "Reference" "R16"
+		(property "Reference" "R30"
 			(at 366.776 170.434 90)
 			(effects
 				(font
@@ -16506,7 +17354,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R16")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -16514,15 +17362,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 53.34 132.08 90)
+		(at 53.34 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "49d46454-994f-4931-92f1-45924d3bb4f7")
-		(property "Reference" "#PWR05"
-			(at 59.69 132.08 0)
+		(property "Reference" "#PWR06"
+			(at 59.69 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16531,7 +17379,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 56.642 132.08 90)
+			(at 56.642 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16540,7 +17388,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 132.08 0)
+			(at 53.34 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16549,7 +17397,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 132.08 0)
+			(at 53.34 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16558,7 +17406,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 132.08 0)
+			(at 53.34 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16572,7 +17420,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -16588,7 +17436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a591c35-67b6-4a25-baad-ddb36ae70db2")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR052"
 			(at 259.08 275.59 0)
 			(effects
 				(font
@@ -16638,7 +17486,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR090")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -16725,7 +17573,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b2b1db5-4eb8-4a14-a09d-25e53cdd13c7")
-		(property "Reference" "J6"
+		(property "Reference" "J7"
 			(at 59.69 224.536 0)
 			(effects
 				(font
@@ -16783,7 +17631,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J6")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -16798,7 +17646,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c2f5d78-266e-4396-b3fc-f44c1ad3c317")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR068"
 			(at 299.72 143.51 0)
 			(effects
 				(font
@@ -16848,7 +17696,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR063")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -16864,7 +17712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c722e8c-1f38-4f9e-857e-a5b9e92530af")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR066"
 			(at 289.56 124.46 0)
 			(effects
 				(font
@@ -16915,7 +17763,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR060")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -16930,7 +17778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d9df7cb-2ba9-40d6-af29-6bea00c7c84c")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 64.77 116.84 0)
 			(effects
 				(font
@@ -16981,7 +17829,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -16997,7 +17845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f673241-f486-4b24-9cfc-e61fa6a270dd")
-		(property "Reference" "J22"
+		(property "Reference" "J20"
 			(at 231.14 226.06 0)
 			(effects
 				(font
@@ -17093,7 +17941,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J22")
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -17188,7 +18036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52cd7630-74ef-4109-ba95-46182cd6a29c")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR086"
 			(at 342.9 201.93 0)
 			(effects
 				(font
@@ -17238,7 +18086,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR089")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -17253,7 +18101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5447483a-a5bb-4b91-b4f9-ba278d417108")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR038"
 			(at 208.28 72.39 0)
 			(effects
 				(font
@@ -17304,7 +18152,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR028")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -17319,7 +18167,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "568e9139-f75d-4ac1-9638-3c449dde690d")
-		(property "Reference" "C26"
+		(property "Reference" "C35"
 			(at 303.784 152.908 90)
 			(effects
 				(font
@@ -17371,7 +18219,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C26")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -17387,7 +18235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56a82a48-dd56-48cb-82ea-954aea726ba4")
-		(property "Reference" "R10"
+		(property "Reference" "R15"
 			(at 129.54 260.35 90)
 			(effects
 				(font
@@ -17439,7 +18287,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R10")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -17454,7 +18302,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "56e1b419-d90b-484d-9350-89bebfb3a12e")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR090"
 			(at 365.76 22.86 0)
 			(effects
 				(font
@@ -17505,7 +18353,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR071")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -17521,7 +18369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5748ad08-1016-4c2d-9ee5-c3e960b27c74")
-		(property "Reference" "C5"
+		(property "Reference" "C8"
 			(at 125.73 72.3899 0)
 			(effects
 				(font
@@ -17575,7 +18423,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C5")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -17607,7 +18455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
 			(at 25.4 62.23 0)
 			(effects
 				(font
@@ -17659,7 +18507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57b91ff2-c376-40bd-8b5e-ed7ccec77567")
-		(property "Reference" "J19"
+		(property "Reference" "J25"
 			(at 292.1 81.28 0)
 			(effects
 				(font
@@ -17779,7 +18627,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J19")
+					(reference "J25")
 					(unit 1)
 				)
 			)
@@ -17794,7 +18642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d00ceb6-aeab-489b-b7ec-9afe29912425")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR056"
 			(at 261.62 53.34 0)
 			(effects
 				(font
@@ -17845,7 +18693,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR042")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -17860,7 +18708,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d0f4c3b-62ed-47f6-b293-c39f6ae8ca47")
-		(property "Reference" "J?"
+		(property "Reference" "J4"
 			(at 34.29 252.476 0)
 			(effects
 				(font
@@ -17918,7 +18766,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -17933,7 +18781,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e15fbc5-3e32-4857-af36-ec430a46dfda")
-		(property "Reference" "C4"
+		(property "Reference" "C6"
 			(at 111.76 36.068 0)
 			(effects
 				(font
@@ -17942,7 +18790,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "220uF"
+		(property "Value" "1000uF"
 			(at 111.76 39.37 0)
 			(effects
 				(font
@@ -17951,7 +18799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
+		(property "Footprint" "Capacitor_SMD:C_Elec_10x10.2"
 			(at 106.9848 35.56 0)
 			(effects
 				(font
@@ -17969,7 +18817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "865080345012"
+		(property "Description" "EEH-ZS1E102UP"
 			(at 107.95 39.37 0)
 			(effects
 				(font
@@ -17987,7 +18835,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -18126,7 +18974,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f645708-83f6-4f49-834c-3d6acbb1f981")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR030"
 			(at 160.02 44.45 0)
 			(effects
 				(font
@@ -18177,7 +19025,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR018")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -18193,7 +19041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6052405a-59db-4ff9-b3fa-a5cba9c2c3f3")
-		(property "Reference" "C?"
+		(property "Reference" "C43"
 			(at 335.28 190.4999 0)
 			(effects
 				(font
@@ -18319,7 +19167,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -18335,7 +19183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63b55da6-bd07-4d12-8982-49bd6d52308b")
-		(property "Reference" "C22"
+		(property "Reference" "C39"
 			(at 320.04 41.0209 0)
 			(effects
 				(font
@@ -18389,7 +19237,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C22")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -18404,7 +19252,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64e334e5-221b-4766-92cd-b2fd5dbbbba5")
-		(property "Reference" "R?"
+		(property "Reference" "R13"
 			(at 121.92 160.02 90)
 			(effects
 				(font
@@ -18528,7 +19376,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -18543,7 +19391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "658d6ba5-30fc-4707-983f-dc352ddcb51e")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR076"
 			(at 316.23 53.34 0)
 			(effects
 				(font
@@ -18594,7 +19442,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR059")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -18609,7 +19457,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "658e9bd2-b929-4ea8-8ac8-5601f7dec862")
-		(property "Reference" "C24"
+		(property "Reference" "C33"
 			(at 309.626 120.65 90)
 			(effects
 				(font
@@ -18661,7 +19509,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C24")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -18676,7 +19524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "659e8087-610f-493e-b960-ebcc60eb3fff")
-		(property "Reference" "C21"
+		(property "Reference" "C37"
 			(at 318.516 32.766 90)
 			(effects
 				(font
@@ -18728,7 +19576,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C21")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -18744,7 +19592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65d5bbea-92b7-47b8-8a6b-5f3259cd96cc")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR022"
 			(at 129.54 157.48 0)
 			(effects
 				(font
@@ -18794,7 +19642,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR0101")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -18809,7 +19657,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67937852-f903-4718-9615-75a43fd7d50e")
-		(property "Reference" "C31"
+		(property "Reference" "C48"
 			(at 371.856 32.766 90)
 			(effects
 				(font
@@ -18861,7 +19709,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C31")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -18877,7 +19725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "696d867e-24f1-4288-b0ee-cd882f00d098")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR025"
 			(at 129.54 266.7 0)
 			(effects
 				(font
@@ -18928,7 +19776,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR026")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -18943,7 +19791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a4eae75-343e-4a97-bf51-d4e53b989eb9")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 137.16 231.394 90)
 			(effects
 				(font
@@ -18995,7 +19843,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -19288,7 +20136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a6c47b8-d57b-499a-85e7-b4fa22146d82")
-		(property "Reference" "J14"
+		(property "Reference" "J16"
 			(at 178.435 218.44 0)
 			(effects
 				(font
@@ -19381,7 +20229,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J14")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -19397,7 +20245,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ad20758-27f4-4e5a-9a2c-ed8fb95d7476")
-		(property "Reference" "R?"
+		(property "Reference" "R20"
 			(at 247.6501 139.7 0)
 			(effects
 				(font
@@ -19451,7 +20299,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -19459,15 +20307,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 36.83 132.08 270)
+		(at 36.83 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6b674247-60a1-4276-8220-a3f1bf67a7b6")
-		(property "Reference" "C1"
-			(at 36.83 125.984 90)
+		(property "Reference" "C2"
+			(at 36.83 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19475,7 +20323,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 37.084 128.27 90)
+			(at 37.084 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19483,7 +20331,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 33.02 133.0452 0)
+			(at 33.02 140.6652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19492,7 +20340,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 132.08 0)
+			(at 36.83 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19501,7 +20349,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 36.83 132.08 0)
+			(at 36.83 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19518,7 +20366,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -19534,7 +20382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cc63b3d-d2fd-4061-8a9c-8f9608a7202c")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR096"
 			(at 373.38 39.37 0)
 			(effects
 				(font
@@ -19585,7 +20433,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR077")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -19601,7 +20449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d0719df-34fb-44a0-a7db-267cbd7ff1d9")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR018"
 			(at 114.3 279.4 0)
 			(effects
 				(font
@@ -19651,7 +20499,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR023")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -19727,15 +20575,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 260.35 57.15 180)
+		(at 265.43 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e73b955-94be-4f25-b803-bcb593d809f4")
-		(property "Reference" "J16"
-			(at 261.874 57.658 0)
+		(property "Reference" "J22"
+			(at 266.954 57.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19744,7 +20592,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 255.778 62.23 0)
+			(at 260.858 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19753,7 +20601,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical"
-			(at 260.35 57.15 0)
+			(at 265.43 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19762,7 +20610,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 57.15 0)
+			(at 265.43 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19771,7 +20619,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 260.35 57.15 0)
+			(at 265.43 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19794,7 +20642,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J16")
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -19810,7 +20658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f9360d5-ef0b-490a-b292-d1ba2445525d")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR065"
 			(at 288.29 250.19 0)
 			(effects
 				(font
@@ -19861,7 +20709,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR094")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -19938,15 +20786,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 314.96 57.15 180)
+		(at 320.04 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7197910d-f70d-4e78-949b-0cb55348acdd")
-		(property "Reference" "J18"
-			(at 316.23 56.896 0)
+		(property "Reference" "J26"
+			(at 321.31 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19955,7 +20803,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 309.118 61.976 0)
+			(at 314.198 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19964,7 +20812,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical"
-			(at 314.96 57.15 0)
+			(at 320.04 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19973,7 +20821,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 314.96 57.15 0)
+			(at 320.04 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19982,7 +20830,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 314.96 57.15 0)
+			(at 320.04 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20005,7 +20853,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J18")
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -20021,7 +20869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73673cf9-adc7-43d4-a718-25ace8f56c65")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR09"
 			(at 62.23 233.68 0)
 			(effects
 				(font
@@ -20071,7 +20919,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR010")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -20079,15 +20927,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 368.3 57.15 180)
+		(at 373.38 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7785a915-ff12-449c-8039-25e0c2f8bdbf")
-		(property "Reference" "J20"
-			(at 369.57 57.15 0)
+		(property "Reference" "J28"
+			(at 374.65 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20096,7 +20944,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 362.712 61.976 0)
+			(at 367.792 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20105,7 +20953,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical"
-			(at 368.3 57.15 0)
+			(at 373.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20114,7 +20962,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 368.3 57.15 0)
+			(at 373.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20123,7 +20971,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 368.3 57.15 0)
+			(at 373.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20146,7 +20994,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J20")
+					(reference "J28")
 					(unit 1)
 				)
 			)
@@ -20162,7 +21010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77be9466-0893-4547-b816-c9ff914c1413")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR029"
 			(at 148.59 232.41 0)
 			(effects
 				(font
@@ -20213,7 +21061,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR033")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -20228,7 +21076,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77edc5ab-83e8-4d17-ae0a-56a2dce9f8ce")
-		(property "Reference" "C25"
+		(property "Reference" "C34"
 			(at 303.53 134.874 90)
 			(effects
 				(font
@@ -20280,7 +21128,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C25")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -20296,7 +21144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7809853a-fdd4-4feb-b056-6e19248d4cd7")
-		(property "Reference" "C?"
+		(property "Reference" "C46"
 			(at 346.71 190.4999 0)
 			(effects
 				(font
@@ -20422,7 +21270,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -20438,7 +21286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78e3f43f-7e2d-4a00-80bb-78f8307f97ea")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR053"
 			(at 256.54 212.09 0)
 			(effects
 				(font
@@ -20489,7 +21337,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR083")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -20567,7 +21415,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 43.18 132.08 0)
+		(at 43.18 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20575,8 +21423,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7af0ba37-f0c2-4e11-88ae-d29aa678ff71")
-		(property "Reference" "#PWR03"
-			(at 43.18 135.89 0)
+		(property "Reference" "#PWR04"
+			(at 43.18 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20585,7 +21433,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 43.18 127 0)
+			(at 43.18 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20593,7 +21441,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 132.08 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20602,7 +21450,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 132.08 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20611,7 +21459,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 43.18 132.08 0)
+			(at 43.18 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20625,7 +21473,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR03")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -20641,7 +21489,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b8be125-4488-4595-90d7-4a95be5c7c19")
-		(property "Reference" "R?"
+		(property "Reference" "R23"
 			(at 325.12 162.56 90)
 			(effects
 				(font
@@ -20657,7 +21505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 325.12 167.132 90)
 			(effects
 				(font
@@ -20693,7 +21541,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -20709,7 +21557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dec7cd3-9243-4067-8bbb-3ad347e3f401")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR070"
 			(at 313.69 147.32 0)
 			(effects
 				(font
@@ -20760,7 +21608,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR067")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -20775,7 +21623,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7e92ded8-3f43-4bc4-afc5-c3962ab93a64")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR060"
 			(at 270.51 25.4 0)
 			(effects
 				(font
@@ -20826,7 +21674,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR046")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -20842,7 +21690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f05cad7-7e27-4a71-8eb2-c8e918c5a311")
-		(property "Reference" "C11"
+		(property "Reference" "C15"
 			(at 172.72 142.2399 0)
 			(effects
 				(font
@@ -20968,7 +21816,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C11")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -20984,7 +21832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80915df5-3dd0-4a38-b9f4-4e88e64384b1")
-		(property "Reference" "C32"
+		(property "Reference" "C49"
 			(at 374.65 41.0209 0)
 			(effects
 				(font
@@ -21038,7 +21886,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C32")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -21053,7 +21901,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8287cabf-4061-4750-8b69-e56ed3407037")
-		(property "Reference" "R18"
+		(property "Reference" "R24"
 			(at 327.914 107.188 90)
 			(effects
 				(font
@@ -21105,7 +21953,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R18")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -21121,7 +21969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "831d120f-1e14-4254-adb7-e3248f37053d")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR054"
 			(at 256.54 236.22 0)
 			(effects
 				(font
@@ -21172,7 +22020,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR084")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -21188,7 +22036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "861c7a8c-671b-4894-8856-6e120b5db1bb")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR027"
 			(at 148.59 114.3 0)
 			(effects
 				(font
@@ -21239,7 +22087,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR022")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -21321,7 +22169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "874a6eb2-9c49-4107-9771-ada39b60fd78")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR067"
 			(at 302.26 247.65 0)
 			(effects
 				(font
@@ -21371,7 +22219,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR095")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -21387,7 +22235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a1447a8-803c-4628-961d-f2c7f6e7beb7")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR064"
 			(at 279.4 170.18 0)
 			(effects
 				(font
@@ -21438,7 +22286,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR0103")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -21454,7 +22302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b44722d-1bcc-44ae-a8b0-bdc0ed92fb3c")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR046"
 			(at 242.57 171.45 0)
 			(effects
 				(font
@@ -21504,7 +22352,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR048")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -21520,7 +22368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b660e85-3af4-461c-8ab5-b125562aced9")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR017"
 			(at 107.95 232.41 0)
 			(effects
 				(font
@@ -21571,7 +22419,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR021")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -21587,7 +22435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b776809-de44-438c-bc70-8478c2db2b6a")
-		(property "Reference" "C14"
+		(property "Reference" "C20"
 			(at 212.09 41.0209 0)
 			(effects
 				(font
@@ -21641,7 +22489,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C14")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -21649,7 +22497,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 214.63 39.37 270)
+		(at 215.9 39.37 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21657,8 +22505,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e746021-a451-417d-8b9c-bd482a517c8d")
-		(property "Reference" "#PWR035"
-			(at 210.82 39.37 0)
+		(property "Reference" "#PWR043"
+			(at 212.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21667,7 +22515,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 218.44 39.3699 90)
+			(at 219.71 39.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21676,7 +22524,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 214.63 39.37 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21685,7 +22533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 39.37 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21694,7 +22542,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 214.63 39.37 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21708,7 +22556,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR035")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -21798,7 +22646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fa22469-92f5-400d-8000-d28c9033ff0f")
-		(property "Reference" "J11"
+		(property "Reference" "J13"
 			(at 120.65 254.6349 90)
 			(effects
 				(font
@@ -21893,7 +22741,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J11")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -21908,7 +22756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9132a135-a2a5-4752-b559-f113a3105623")
-		(property "Reference" "C?"
+		(property "Reference" "C24"
 			(at 251.46 263.2709 0)
 			(effects
 				(font
@@ -21962,7 +22810,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -21970,7 +22818,7 @@
 	)
 	(symbol
 		(lib_id "Cooper's Library:MCP1402T-E_OT")
-		(at 48.26 149.86 90)
+		(at 48.26 157.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21979,7 +22827,7 @@
 		(fields_autoplaced yes)
 		(uuid "9237a940-0f07-480f-a1fd-a9d08d29cd24")
 		(property "Reference" "U2"
-			(at 57.15 148.5899 90)
+			(at 57.15 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21988,7 +22836,7 @@
 			)
 		)
 		(property "Value" "MCP1402T-E_OT"
-			(at 57.15 151.1299 90)
+			(at 57.15 158.7499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21997,7 +22845,7 @@
 			)
 		)
 		(property "Footprint" "Cooper's Footprints:SOT95P270X145-5N"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22007,7 +22855,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22016,7 +22864,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22025,7 +22873,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22035,7 +22883,7 @@
 			)
 		)
 		(property "Description_1" "MCP1402T-E/OT,MOSFET Power Driver.5A,4.5 to 18V,Non-Inverting,5-Pin SOT-23 | Microchip Technology Inc. MCP1402T-E/OT"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22045,7 +22893,7 @@
 			)
 		)
 		(property "Package" "SOT-23-5 Microchip"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22055,7 +22903,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22065,7 +22913,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MCP1402T-E/OT/Microchip+Technology/view-part/?ref=snap"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22075,7 +22923,7 @@
 			)
 		)
 		(property "MP" "MCP1402T-E/OT"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22085,7 +22933,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22095,7 +22943,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/MCP1402T-E/OT/Microchip+Technology/view-part/?ref=eda"
-			(at 48.26 149.86 0)
+			(at 48.26 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22137,7 +22985,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9291183c-ae59-4a08-ad22-e74eb703b4c7")
-		(property "Reference" "R?"
+		(property "Reference" "R12"
 			(at 109.22 172.72 90)
 			(effects
 				(font
@@ -22261,7 +23109,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -22277,7 +23125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92fd3700-1864-4830-989b-e5b0182703d5")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 38.1 245.11 0)
 			(effects
 				(font
@@ -22327,7 +23175,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR04")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -22343,7 +23191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94ce849c-4aa5-4334-a0e8-cffc5081de40")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR079"
 			(at 320.04 39.37 0)
 			(effects
 				(font
@@ -22394,7 +23242,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR062")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -22479,7 +23327,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9660f737-483d-40ac-bc39-45375e422acb")
-		(property "Reference" "R?"
+		(property "Reference" "R21"
 			(at 256.5401 140.97 0)
 			(effects
 				(font
@@ -22533,7 +23381,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -22549,7 +23397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98440043-4e21-4c7c-bcc4-c3a7146e1f54")
-		(property "Reference" "J?"
+		(property "Reference" "J3"
 			(at 29.845 198.12 0)
 			(effects
 				(font
@@ -22601,7 +23449,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -22616,7 +23464,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99f044db-6449-41e4-a1f4-593a1730cefe")
-		(property "Reference" "C30"
+		(property "Reference" "C45"
 			(at 331.724 127 90)
 			(effects
 				(font
@@ -22668,7 +23516,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C30")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -22921,7 +23769,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d18a5c9-2814-4558-9082-eeea2629f28f")
-		(property "Reference" "R?"
+		(property "Reference" "R7"
 			(at 104.1401 163.83 0)
 			(effects
 				(font
@@ -22975,74 +23823,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 381 59.69 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9de64a2f-d9fc-4160-b01a-30028591b3ec")
-		(property "Reference" "#PWR079"
-			(at 384.81 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 377.19 59.6899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 381 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 381 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 381 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9c2c03a3-8ba6-42b7-be74-75578ea2c702")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR079")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -23254,7 +24035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a04bc2e9-9e24-4bc4-a6b1-6819dd622d15")
-		(property "Reference" "R12"
+		(property "Reference" "R18"
 			(at 176.53 128.27 90)
 			(effects
 				(font
@@ -23270,7 +24051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 176.53 132.842 90)
 			(effects
 				(font
@@ -23378,7 +24159,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R12")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -23393,7 +24174,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a11222c3-3944-44b6-857f-c2487b2f1f68")
-		(property "Reference" "J?"
+		(property "Reference" "J8"
 			(at 59.69 252.476 0)
 			(effects
 				(font
@@ -23451,7 +24232,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -23467,7 +24248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a294f4a8-05be-4463-bed5-75708827c523")
-		(property "Reference" "J?"
+		(property "Reference" "J14"
 			(at 135.89 166.3699 0)
 			(effects
 				(font
@@ -23527,7 +24308,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -23543,7 +24324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a35fb3cf-0aae-40cc-a2b3-6a7a08452ec7")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR010"
 			(at 69.85 60.96 0)
 			(effects
 				(font
@@ -23593,7 +24374,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR07")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -23609,7 +24390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3b9334a-a577-4341-a11d-30c9563801a1")
-		(property "Reference" "J4"
+		(property "Reference" "J5"
 			(at 33.655 215.9 0)
 			(effects
 				(font
@@ -23679,7 +24460,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J4")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -23772,7 +24553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6bf5cb7-d7ea-4b87-b560-672adeec7672")
-		(property "Reference" "U8"
+		(property "Reference" "U9"
 			(at 345.44 29.21 0)
 			(effects
 				(font
@@ -23993,7 +24774,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "U8")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -24008,7 +24789,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9b092ed-fb79-4cee-a5df-259e8558365c")
-		(property "Reference" "C?"
+		(property "Reference" "C50"
 			(at 382.016 219.71 90)
 			(effects
 				(font
@@ -24060,7 +24841,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -24068,15 +24849,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 207.01 57.15 180)
+		(at 210.82 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "aa66b8aa-ad51-41b6-a8da-8e749efda61a")
-		(property "Reference" "J13"
-			(at 208.28 58.166 0)
+		(property "Reference" "J18"
+			(at 212.09 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24085,7 +24866,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 201.168 62.23 0)
+			(at 204.978 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24094,7 +24875,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical"
-			(at 207.01 57.15 0)
+			(at 210.82 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24103,7 +24884,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 57.15 0)
+			(at 210.82 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24112,7 +24893,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 207.01 57.15 0)
+			(at 210.82 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24135,7 +24916,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J13")
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -24150,7 +24931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "abbb1f4d-71c6-429c-aea8-45dfbdb2d06d")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR042"
 			(at 215.9 25.4 0)
 			(effects
 				(font
@@ -24201,7 +24982,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR036")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -24217,7 +24998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adc5df27-3525-42c8-aa17-639fec5db041")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR026"
 			(at 143.51 194.31 0)
 			(effects
 				(font
@@ -24268,7 +25049,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR0102")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -24283,7 +25064,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b078a35b-dcff-443e-916c-7993f2bb745b")
-		(property "Reference" "C35"
+		(property "Reference" "C23"
 			(at 251.46 237.8709 0)
 			(effects
 				(font
@@ -24337,7 +25118,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C35")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -24353,7 +25134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1f185be-9d69-42d0-8972-2b91d479f67b")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR015"
 			(at 106.68 124.46 0)
 			(effects
 				(font
@@ -24404,73 +25185,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 219.71 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b258e55d-986a-4123-9b3d-a7a8cfffe2ee")
-		(property "Reference" "#PWR037"
-			(at 213.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 216.408 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 219.71 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 219.71 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 219.71 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "26ce7ff4-628b-4b0a-a159-d7827ab5099c")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR037")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -24485,7 +25200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b340eb59-c525-4524-a644-b9907eb4cfe3")
-		(property "Reference" "J5"
+		(property "Reference" "J6"
 			(at 58.42 196.596 0)
 			(effects
 				(font
@@ -24543,7 +25258,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J5")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -24559,7 +25274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b37e2510-762f-43b9-9b3b-0dfe7a8925ab")
-		(property "Reference" "J?"
+		(property "Reference" "J24"
 			(at 278.13 275.59 0)
 			(effects
 				(font
@@ -24655,7 +25370,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -24670,7 +25385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b445293d-11b9-4c50-a672-4e4477ed86a8")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR011"
 			(at 81.28 92.71 0)
 			(effects
 				(font
@@ -24721,7 +25436,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR08")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -24737,7 +25452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5411649-22ac-439c-a2aa-406fe2e7984a")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR099"
 			(at 389.89 129.54 0)
 			(effects
 				(font
@@ -24788,7 +25503,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR086")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -24804,7 +25519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8402163-b14a-4518-b25a-be64d489789c")
-		(property "Reference" "R14"
+		(property "Reference" "R19"
 			(at 245.11 170.1799 0)
 			(effects
 				(font
@@ -24930,7 +25645,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R14")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -24946,8 +25661,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b900e0c1-037d-4bd8-b11f-6846bfeaa7fb")
-		(property "Reference" "R?"
-			(at 121.92 175.26 90)
+		(property "Reference" "R14"
+			(at 121.92 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24955,7 +25670,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 121.92 172.72 90)
+			(at 121.666 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25070,73 +25785,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 327.66 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b91cfa84-85b5-4d0f-abe2-7a4383f0c3dd")
-		(property "Reference" "#PWR065"
-			(at 321.31 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 324.358 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 327.66 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 327.66 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 327.66 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "be448ef3-aff2-4316-ab1e-0a905510108a")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR065")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -25151,7 +25800,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9552c71-b1a0-4e7b-b17c-6abcbb8e3592")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR085"
 			(at 346.71 121.92 0)
 			(effects
 				(font
@@ -25201,7 +25850,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR074")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -25453,7 +26102,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9c17e74-ee1b-4ccb-9416-add0e321fed2")
-		(property "Reference" "C?"
+		(property "Reference" "C32"
 			(at 289.9409 255.27 0)
 			(effects
 				(font
@@ -25507,7 +26156,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -25588,7 +26237,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c02c35d7-0117-44a2-b599-5acf38d4ac06")
-		(property "Reference" "C?"
+		(property "Reference" "C10"
 			(at 133.35 183.134 90)
 			(effects
 				(font
@@ -25640,7 +26289,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -25656,7 +26305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c02fa84c-8d90-418a-8e93-04359e049503")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR020"
 			(at 121.92 53.34 0)
 			(effects
 				(font
@@ -25706,73 +26355,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 166.37 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c0e02544-3c9e-46f6-980a-6eb063ec16e6")
-		(property "Reference" "#PWR019"
-			(at 160.02 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 163.068 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 166.37 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 166.37 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6e6ef8ef-988c-48ed-bcc9-444a21764d65")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -25787,7 +26370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c204e39b-6ba4-4592-8249-0d2c3abd21da")
-		(property "Reference" "C19"
+		(property "Reference" "C18"
 			(at 193.04 260.096 90)
 			(effects
 				(font
@@ -25839,7 +26422,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C19")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -25854,7 +26437,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2c0b882-bd30-4fe7-93c9-1e5185e4e290")
-		(property "Reference" "C3"
+		(property "Reference" "C4"
 			(at 95.25 123.444 90)
 			(effects
 				(font
@@ -25906,7 +26489,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -25922,7 +26505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c40a2560-1f25-45d9-8ac1-cf4e9b711a96")
-		(property "Reference" "C12"
+		(property "Reference" "C16"
 			(at 175.26 119.3799 0)
 			(effects
 				(font
@@ -26048,7 +26631,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C12")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -26063,7 +26646,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4881705-5eca-449d-b1dd-ea2423df664c")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR072"
 			(at 312.42 22.86 0)
 			(effects
 				(font
@@ -26114,7 +26697,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR057")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -26130,7 +26713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4b6cef7-51cc-4b1c-86b2-f7b82e70869e")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR032"
 			(at 171.45 130.81 0)
 			(effects
 				(font
@@ -26180,73 +26763,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 274.32 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c5c94e0d-ec7a-49ef-9018-2e2987cfd732")
-		(property "Reference" "#PWR050"
-			(at 267.97 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 271.018 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 274.32 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 274.32 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 274.32 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fcbcb5e8-5716-498f-8cab-81c8b9db320a")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR050")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -26262,7 +26779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5f8b643-ba6d-4940-9cbb-e14af1015b14")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR087"
 			(at 340.36 187.96 0)
 			(effects
 				(font
@@ -26313,7 +26830,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR088")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -26329,7 +26846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c651931c-57de-439d-8560-50c3d6cae75a")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR044"
 			(at 223.52 59.69 0)
 			(effects
 				(font
@@ -26380,7 +26897,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR038")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -26395,7 +26912,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c9165c39-7b37-4e99-874e-aeaf19408efe")
-		(property "Reference" "C15"
+		(property "Reference" "C21"
 			(at 221.996 35.306 90)
 			(effects
 				(font
@@ -26447,7 +26964,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C15")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -26463,7 +26980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9e4bd70-f48d-40bf-8d6a-f17ca2c54391")
-		(property "Reference" "J17"
+		(property "Reference" "J23"
 			(at 276.86 142.2399 0)
 			(effects
 				(font
@@ -26523,7 +27040,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J17")
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -26539,7 +27056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbd65f88-b820-4ab7-807c-01d05ef877bf")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR028"
 			(at 146.05 134.62 0)
 			(effects
 				(font
@@ -26590,7 +27107,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR024")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -26606,7 +27123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ced2127e-d8ff-4c8b-afc7-b208c8b84f08")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR075"
 			(at 314.96 227.33 0)
 			(effects
 				(font
@@ -26656,7 +27173,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR092")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -26664,7 +27181,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 341.63 101.6 0)
+		(at 331.47 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26672,8 +27189,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ced90e5c-a784-4bb6-afa3-f2f1c52ce7d9")
-		(property "Reference" "#PWR073"
-			(at 341.63 105.41 0)
+		(property "Reference" "#PWR082"
+			(at 335.28 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26682,7 +27199,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 341.63 96.52 0)
+			(at 330.2 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26690,7 +27207,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 341.63 101.6 0)
+			(at 331.47 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26699,7 +27216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 341.63 101.6 0)
+			(at 331.47 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26708,7 +27225,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 341.63 101.6 0)
+			(at 331.47 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26722,7 +27239,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR073")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -26738,7 +27255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cedadba8-596a-4850-b332-a9180e2161df")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR057"
 			(at 270.51 167.64 0)
 			(effects
 				(font
@@ -26789,7 +27306,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR055")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -26872,7 +27389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf63f9c5-20d5-4c3c-86da-3ddc4a4e6ae5")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR037"
 			(at 196.85 223.52 0)
 			(effects
 				(font
@@ -26922,7 +27439,74 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR049")
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 345.44 106.68 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cfb9533f-205f-4bc3-a27b-daa27a0d4ad2")
+		(property "Reference" "C47"
+			(at 345.44 100.584 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 345.694 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 341.63 107.6452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 345.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 345.44 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33491d93-b3a5-473b-8484-ab01d598b068")
+		)
+		(pin "2"
+			(uuid "f921141c-741d-45e9-9bff-ba364b08bc89")
+		)
+		(instances
+			(project "pipsqueak_pcb"
+				(path "/ea446875-dee0-4566-8c82-1557756ca798"
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -26937,7 +27521,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d1d3cef5-4a14-41a4-898e-23fc579afbdd")
-		(property "Reference" "C37"
+		(property "Reference" "C27"
 			(at 265.176 240.03 90)
 			(effects
 				(font
@@ -26989,7 +27573,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C37")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -27004,7 +27588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2798d42-a483-42d3-bce3-179135cbd7cf")
-		(property "Reference" "C20"
+		(property "Reference" "C30"
 			(at 276.606 35.306 90)
 			(effects
 				(font
@@ -27056,7 +27640,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C20")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -27071,7 +27655,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d299cc8d-469c-44a6-9e29-708917ace929")
-		(property "Reference" "C?"
+		(property "Reference" "C9"
 			(at 133.35 172.974 90)
 			(effects
 				(font
@@ -27123,7 +27707,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -27139,7 +27723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2f91a2f-2ac1-47af-b7ea-90eca7a25d23")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR016"
 			(at 107.95 43.18 0)
 			(effects
 				(font
@@ -27190,7 +27774,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR013")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -27205,7 +27789,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d37b3269-0a15-44c4-a3e0-d0c4d2a0f07b")
-		(property "Reference" "C?"
+		(property "Reference" "C38"
 			(at 308.864 237.49 90)
 			(effects
 				(font
@@ -27257,7 +27841,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -27273,7 +27857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4de2c62-2b7b-4f44-a408-7294e4daf884")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR091"
 			(at 361.95 36.83 0)
 			(effects
 				(font
@@ -27324,7 +27908,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR072")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -27339,7 +27923,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5ee2f7b-dfa0-478d-bff7-4dffc39f04b9")
-		(property "Reference" "R7"
+		(property "Reference" "R11"
 			(at 116.84 72.3899 0)
 			(effects
 				(font
@@ -27393,7 +27977,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R7")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -27409,7 +27993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d71a7fd7-d6bc-421b-bb0b-ef84f6662d8b")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR021"
 			(at 121.92 73.66 0)
 			(effects
 				(font
@@ -27459,7 +28043,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR016")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -27475,7 +28059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7725700-17ae-4200-9b88-d8307cf58e34")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR036"
 			(at 187.96 260.35 0)
 			(effects
 				(font
@@ -27525,7 +28109,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR044")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -27541,7 +28125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8a34318-5ba3-466d-976e-f5c2e3ab67b6")
-		(property "Reference" "J9"
+		(property "Reference" "J11"
 			(at 97.79 112.3949 90)
 			(effects
 				(font
@@ -27636,7 +28220,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J9")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -27652,7 +28236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9ecda06-7f76-484c-bcb9-c6aa0a1f819c")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR058"
 			(at 270.51 139.7 0)
 			(effects
 				(font
@@ -27703,7 +28287,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR052")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -27719,7 +28303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da7a3115-2453-47bb-baf4-d7176a5e876a")
-		(property "Reference" "U?"
+		(property "Reference" "U8"
 			(at 334.01 181.5398 90)
 			(effects
 				(font
@@ -27850,7 +28434,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "U?")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -27866,7 +28450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db27057f-584c-4448-9bfc-9c3c7f352e28")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR055"
 			(at 256.54 261.62 0)
 			(effects
 				(font
@@ -27917,7 +28501,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR091")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -27932,7 +28516,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc58c906-992a-4b63-b14f-020a9c17d0bf")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR092"
 			(at 370.84 53.34 0)
 			(effects
 				(font
@@ -27983,7 +28567,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR075")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -27998,7 +28582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd2ca73b-8ec8-4192-90cf-050cb9bfafd8")
-		(property "Reference" "C28"
+		(property "Reference" "C40"
 			(at 324.866 118.11 90)
 			(effects
 				(font
@@ -28050,7 +28634,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C28")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -28199,7 +28783,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df8dae54-a374-4fd7-b289-590f60cc889b")
-		(property "Reference" "C?"
+		(property "Reference" "C11"
 			(at 136.652 198.12 0)
 			(effects
 				(font
@@ -28253,7 +28837,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -28348,7 +28932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e12ab727-213a-42aa-8749-20808a976cc7")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR059"
 			(at 260.35 147.32 0)
 			(effects
 				(font
@@ -28399,7 +28983,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR053")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -28415,7 +28999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1b7a25d-111b-4344-853c-d5006b115c5e")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR035"
 			(at 187.96 234.95 0)
 			(effects
 				(font
@@ -28465,7 +29049,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR043")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -28481,7 +29065,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e31b1824-00d6-404f-9cc1-7b117d81e4f0")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR084"
 			(at 337.82 137.16 0)
 			(effects
 				(font
@@ -28531,7 +29115,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR069")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -28616,7 +29200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e34784c9-ed29-4aaf-bf54-e53a0a491837")
-		(property "Reference" "J?"
+		(property "Reference" "J27"
 			(at 342.9 251.46 0)
 			(effects
 				(font
@@ -28712,7 +29296,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J?")
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -28728,7 +29312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e41e88dc-8ee7-4dac-8c4b-e9c793461876")
-		(property "Reference" "J7"
+		(property "Reference" "J9"
 			(at 87.63 46.3549 90)
 			(effects
 				(font
@@ -28782,7 +29366,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "J7")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -28797,7 +29381,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4549814-91db-497e-82f7-447045b86ea0")
-		(property "Reference" "C?"
+		(property "Reference" "C42"
 			(at 322.58 239.6491 0)
 			(effects
 				(font
@@ -28851,7 +29435,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C?")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -28867,7 +29451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4bb427d-aaae-437d-8042-a9c465317822")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR050"
 			(at 259.08 226.06 0)
 			(effects
 				(font
@@ -28917,7 +29501,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR081")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -28933,7 +29517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4f6ee56-6edf-417d-b8ae-bd8686067651")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR024"
 			(at 133.35 245.11 0)
 			(effects
 				(font
@@ -28983,7 +29567,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR025")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -28999,7 +29583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7e66f18-5ab3-4b23-82f9-54f94cac4b7f")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR019"
 			(at 115.57 182.88 0)
 			(effects
 				(font
@@ -29049,7 +29633,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR099")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -29064,7 +29648,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8e021b7-bc6c-4759-952f-892e0efb6abc")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 118.11 265.684 90)
 			(effects
 				(font
@@ -29116,7 +29700,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -29131,7 +29715,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8e7353a-7bfd-42d4-968a-08af03859c31")
-		(property "Reference" "R19"
+		(property "Reference" "R25"
 			(at 327.914 119.126 90)
 			(effects
 				(font
@@ -29183,7 +29767,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R19")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -29199,7 +29783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9e492a2-5c64-438a-a781-2a733d011938")
-		(property "Reference" "C9"
+		(property "Reference" "C14"
 			(at 160.02 116.8399 0)
 			(effects
 				(font
@@ -29325,7 +29909,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C9")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -29341,7 +29925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea6b1149-595c-4edc-8977-eb1724b9c6b1")
-		(property "Reference" "C17"
+		(property "Reference" "C29"
 			(at 265.43 41.0209 0)
 			(effects
 				(font
@@ -29395,7 +29979,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C17")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -29411,7 +29995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef8ea092-4b39-4e66-af5d-ecb8c127fa2a")
-		(property "Reference" "R?"
+		(property "Reference" "R22"
 			(at 330.2 209.55 90)
 			(effects
 				(font
@@ -29463,7 +30047,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -29479,7 +30063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efbf964e-63ab-4289-855d-d2580a6ab5f1")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR069"
 			(at 308.61 88.9 0)
 			(effects
 				(font
@@ -29530,7 +30114,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR064")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -29546,7 +30130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f01c680d-eaf7-402a-bb0d-ca815fc9062e")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR074"
 			(at 317.5 241.3 0)
 			(effects
 				(font
@@ -29597,7 +30181,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR093")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -29809,7 +30393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f23464c9-e999-4a9d-8832-376524db1387")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR031"
 			(at 170.18 59.69 0)
 			(effects
 				(font
@@ -29860,7 +30444,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR020")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -29875,7 +30459,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f270f000-d9bc-4d11-a890-3f7785eb146c")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR039"
 			(at 204.47 22.86 0)
 			(effects
 				(font
@@ -29926,7 +30510,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR029")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -29942,7 +30526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f84f537d-bd78-4c6c-ac11-fe7d94a61107")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR014"
 			(at 107.95 19.05 0)
 			(effects
 				(font
@@ -29992,73 +30576,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 381 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f92b5532-044c-42ef-889a-9bc26f497e32")
-		(property "Reference" "#PWR078"
-			(at 374.65 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 377.698 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 381 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 381 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 381 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b567709f-3a78-489c-bdfa-421dd086cc86")
-		)
-		(instances
-			(project "Nostrapharma"
-				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR078")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -30074,7 +30592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa7cc2a8-0fd6-40d1-b664-5c466738ab7c")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR013"
 			(at 92.71 245.11 0)
 			(effects
 				(font
@@ -30124,7 +30642,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR017")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -30139,7 +30657,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fbfc082b-6aa5-4573-ad57-1a427ecb1d29")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR047"
 			(at 261.62 72.39 0)
 			(effects
 				(font
@@ -30190,7 +30708,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR039")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -30206,7 +30724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc1715e6-75bd-4c88-9d41-19e04414ea89")
-		(property "Reference" "R?"
+		(property "Reference" "R28"
 			(at 363.22 220.98 90)
 			(effects
 				(font
@@ -30258,7 +30776,7 @@
 		(instances
 			(project "pipsqueak_pcb"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "R?")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -30464,7 +30982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd0e7d36-c10b-4e68-9b58-fac89a46313f")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR012"
 			(at 91.44 137.16 0)
 			(effects
 				(font
@@ -30514,7 +31032,7 @@
 		(instances
 			(project ""
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR011")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -30529,7 +31047,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd3b5e12-08ad-40cc-a2cf-479b9b6afcd0")
-		(property "Reference" "C34"
+		(property "Reference" "C22"
 			(at 251.46 213.7409 0)
 			(effects
 				(font
@@ -30583,7 +31101,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "C34")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -30599,7 +31117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd73adfb-2902-494f-ba73-12a8310d8373")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR051"
 			(at 259.08 250.19 0)
 			(effects
 				(font
@@ -30649,7 +31167,7 @@
 		(instances
 			(project "Nostrapharma"
 				(path "/ea446875-dee0-4566-8c82-1557756ca798"
-					(reference "#PWR082")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -30657,7 +31175,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 33.02 132.08 270)
+		(at 33.02 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30665,7 +31183,7 @@
 		(dnp no)
 		(uuid "fdcfbbe1-5187-4f41-bdff-85f901c9010e")
 		(property "Reference" "#PWR02"
-			(at 26.67 132.08 0)
+			(at 26.67 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30674,7 +31192,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.718 132.08 90)
+			(at 29.718 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30683,7 +31201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 132.08 0)
+			(at 33.02 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30692,7 +31210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 132.08 0)
+			(at 33.02 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30701,7 +31219,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 132.08 0)
+			(at 33.02 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)

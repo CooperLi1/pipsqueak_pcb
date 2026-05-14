@@ -1,4 +1,32 @@
-26528530354217126
+26549883446037792
+472121020311
+472121020311
+
+
+0
+3
+3
+2479 (1)
+BAT_2479
+
+
+0
+2
+2
+4592
+4952
+4952-2
+Switch
+0
+2
+2
+1825255_1
+SW3_1825255-1_TEC
+
+1825255-1 
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57988,6 +58016,13 @@ AMPHENOL_10118192-0002LF
 11
 11
 Cooper's Footprints
+Adafruit Audio FX Sound Board
+
+
+0
+28
+28
+Cooper's Footprints
 CONN_S2B-PH-K-S_JST
 
 S2B-PH-K-SLFSN 
@@ -58309,6 +58344,13 @@ Untitled_4
 0
 0
 0
+Cooper's Footprints
+Untitled_5
+
+
+0
+28
+28
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 AT310, Crystal, with length tolerance, length 10.5mm, width 3.0mm, THT, https://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -61627,6 +61669,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EEE_FK1E101AP
+CAP_EEFK_E_PAN
+
+EEE-FK1E101AP 
+0
+2
+2
+EEE_FK1E101AP
+CAP_EEFK_E_PAN-L
+
+EEE-FK1E101AP 
+0
+2
+2
+EEE_FK1E101AP
+CAP_EEFK_E_PAN-M
+
+EEE-FK1E101AP 
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -105990,6 +106053,27 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+ss22fa
+SOD-123FA_ONS
+
+SS22FA 
+0
+2
+2
+ss22fa
+SOD-123FA_ONS-L
+
+SS22FA 
+0
+2
+2
+ss22fa
+SOD-123FA_ONS-M
+
+SS22FA 
 0
 2
 2

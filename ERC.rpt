@@ -1,0 +1,274 @@
+ERC report (2026-05-12T23:06:22-0400, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1200 mils, 2450 mils): Symbol U1 Pin 2 [D, Unspecified, Line]
+    @(1200 mils, 2450 mils): Symbol J1 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1600 mils, 2450 mils): Symbol U1 Pin 3 [S, Unspecified, Line]
+    @(1700 mils, 2450 mils): Symbol D1 Pin 1 [K, Passive, Line]
+[lib_symbol_mismatch]: Symbol 'SUP90P06-09L-E3' doesn't match copy in library 'Cooper's Library'
+    ; warning
+    @(1400 mils, 2750 mils): Symbol U1 [SUP90P06-09L-E3]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1400 mils, 2750 mils): Symbol U1 Pin 1 [G, Unspecified, Line]
+    @(1400 mils, 2750 mils): Symbol R1 Pin 1 [Passive, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1250 mils, 4500 mils): Symbol #PWR01 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1750 mils, 4750 mils): Symbol #PWR05 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Output and Power output are connected
+    ; error
+    @(4300 mils, 2750 mils): Symbol U3 Pin 4 [Out-, Output, Line]
+    @(7300 mils, 4400 mils): Symbol U5 Pin 1 [GND, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1700 mils, 5100 mils): Symbol #PWR04 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6550 mils, 2450 mils): Symbol U4 Pin 13 [SPRD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(6550 mils, 2450 mils): Symbol U4 Pin 13 [SPRD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6550 mils, 2550 mils): Symbol U4 Pin 11 [PDN, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6550 mils, 2650 mils): Symbol U4 Pin 12 [UART, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7950 mils, 1750 mils): Symbol U4 Pin 17 [INDEX, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7950 mils, 1850 mils): Symbol U4 Pin 18 [DIAG, Output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(7300 mils, 4400 mils): Symbol U5 Pin 1 [GND, Power output, Line]
+    @(7300 mils, 5800 mils): Symbol U5 Pin 15 [GND, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8500 mils, 1550 mils): Symbol C21 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8650 mils, 2450 mils): Symbol U6 Pin 13 [SPRD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8650 mils, 2450 mils): Symbol U6 Pin 13 [SPRD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8650 mils, 2550 mils): Symbol U6 Pin 11 [PDN, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8650 mils, 2650 mils): Symbol U6 Pin 12 [UART, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7300 mils, 5700 mils): Symbol U5 Pin 14 [IO12, Bidirectional, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(7300 mils, 5800 mils): Symbol U5 Pin 15 [GND, Power output, Line]
+    @(9300 mils, 5300 mils): Symbol U5 Pin 38 [GND, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2450 mils, 9350 mils): Symbol #PWR09 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7300 mils, 6600 mils): Symbol U5 Pin 23 [IO15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10050 mils, 1750 mils): Symbol U6 Pin 17 [INDEX, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10050 mils, 1850 mils): Symbol U6 Pin 18 [DIAG, Output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4400 mils): Symbol U5 Pin 47 [GND, Power output, Line]
+    @(13500 mils, 4900 mils): Symbol U10 Pin 16 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4500 mils): Symbol U5 Pin 46 [GND, Power output, Line]
+    @(9300 mils, 4400 mils): Symbol U5 Pin 47 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4600 mils): Symbol U5 Pin 45 [GND, Power output, Line]
+    @(9300 mils, 4500 mils): Symbol U5 Pin 46 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4700 mils): Symbol U5 Pin 44 [GND, Power output, Line]
+    @(9300 mils, 4600 mils): Symbol U5 Pin 45 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4800 mils): Symbol U5 Pin 43 [GND, Power output, Line]
+    @(9300 mils, 4700 mils): Symbol U5 Pin 44 [GND, Power output, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9200 mils, 5000 mils): Vertical Wire, length 200 mils
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(9200 mils, 5000 mils): Vertical Wire, length 200 mils
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 4900 mils): Symbol U5 Pin 42 [GND, Power output, Line]
+    @(9300 mils, 4800 mils): Symbol U5 Pin 43 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 5000 mils): Symbol U5 Pin 41 [GND, Power output, Line]
+    @(9300 mils, 4900 mils): Symbol U5 Pin 42 [GND, Power output, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9200 mils, 5000 mils): Vertical Wire, length 200 mils
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 5100 mils): Symbol U5 Pin 40 [GND, Power output, Line]
+    @(9300 mils, 5000 mils): Symbol U5 Pin 41 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 5200 mils): Symbol U5 Pin 39 [GND, Power output, Line]
+    @(9300 mils, 5100 mils): Symbol U5 Pin 40 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(9300 mils, 5300 mils): Symbol U5 Pin 38 [GND, Power output, Line]
+    @(9300 mils, 5200 mils): Symbol U5 Pin 39 [GND, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10800 mils, 2450 mils): Symbol U7 Pin 13 [SPRD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(10800 mils, 2450 mils): Symbol U7 Pin 13 [SPRD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10800 mils, 2550 mils): Symbol U7 Pin 11 [PDN, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10800 mils, 2650 mils): Symbol U7 Pin 12 [UART, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9300 mils, 6200 mils): Symbol U5 Pin 29 [IO5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9300 mils, 6700 mils): Symbol U5 Pin 24 [IO2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12200 mils, 1750 mils): Symbol U7 Pin 17 [INDEX, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12200 mils, 1850 mils): Symbol U7 Pin 18 [DIAG, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11900 mils, 4300 mils): Symbol J25 Pin 4 [ID, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(11900 mils, 4600 mils): Symbol J25 Pin 1 [VCC, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12900 mils, 2450 mils): Symbol U9 Pin 13 [SPRD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(12900 mils, 2450 mils): Symbol U9 Pin 13 [SPRD, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(11800 mils, 5800 mils): Symbol #PWR071 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12900 mils, 2550 mils): Symbol U9 Pin 11 [PDN, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12900 mils, 2650 mils): Symbol U9 Pin 12 [UART, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11350 mils, 8100 mils): Symbol U8 Pin 21 [LED14, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11550 mils, 8100 mils): Symbol U8 Pin 19 [LED12, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12550 mils, 6700 mils): Symbol U8 Pin 25 [EXTCLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(12550 mils, 6700 mils): Symbol U8 Pin 25 [EXTCLK, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(13500 mils, 4600 mils): Symbol U10 Pin 13 [3V3OUT, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11750 mils, 8100 mils): Symbol U8 Pin 17 [LED10, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13500 mils, 5000 mils): Symbol U10 Pin 17 [CBUS1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 1750 mils): Symbol U9 Pin 17 [INDEX, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 1850 mils): Symbol U9 Pin 18 [DIAG, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13500 mils, 5100 mils): Symbol U10 Pin 18 [CBUS0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 8100 mils): Symbol U8 Pin 15 [LED8, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13500 mils, 5200 mils): Symbol U10 Pin 19 [CBUS3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12150 mils, 8100 mils): Symbol U8 Pin 12 [LED6, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12250 mils, 8100 mils): Symbol U8 Pin 11 [LED5, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12350 mils, 8100 mils): Symbol U8 Pin 10 [LED4, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12450 mils, 8100 mils): Symbol U8 Pin 9 [LED3, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12550 mils, 8100 mils): Symbol U8 Pin 8 [LED2, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12650 mils, 8100 mils): Symbol U8 Pin 7 [LED1, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15000 mils, 2250 mils): Symbol #PWR0102 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15000 mils, 2350 mils): Symbol #PWR0103 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15300 mils, 4400 mils): Symbol U10 Pin 10 [CBUS2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15300 mils, 4500 mils): Symbol U10 Pin 9 [CTS#, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(15300 mils, 4500 mils): Symbol U10 Pin 9 [CTS#, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15300 mils, 4600 mils): Symbol U10 Pin 8 [DCD#, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(15300 mils, 4600 mils): Symbol U10 Pin 8 [DCD#, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15300 mils, 4700 mils): Symbol U10 Pin 7 [DSR#, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(15300 mils, 4700 mils): Symbol U10 Pin 7 [DSR#, Input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(15300 mils, 4800 mils): Symbol U10 Pin 6 [GND, Power output, Line]
+    @(13500 mils, 4900 mils): Symbol U10 Pin 16 [GND, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15300 mils, 4900 mils): Symbol U10 Pin 5 [RI#, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(15300 mils, 4900 mils): Symbol U10 Pin 5 [RI#, Input, Line]
+
+ ** ERC messages: 84  Errors 78  Warnings 6

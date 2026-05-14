@@ -49080,8 +49080,8 @@
 			)
 		)
 	)
-	(gr_text "Blu Cru 6417"
-		(at 95 51.5 0)
+	(gr_text "Nostopharma X Blu Cru 6417"
+		(at 95 48 0)
 		(layer "B.SilkS")
 		(uuid "01b0a36b-8b82-4b51-8597-58d76eb03e21")
 		(effects
@@ -49107,7 +49107,7 @@
 		)
 	)
 	(gr_text "Cooper Li 5/13/26"
-		(at 95 47.5 0)
+		(at 95 52 0)
 		(layer "B.SilkS")
 		(uuid "64788d4a-f96e-43bf-a790-02e03905aa68")
 		(effects
